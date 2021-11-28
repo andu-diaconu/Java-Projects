@@ -1,0 +1,254 @@
+
+Time:0
+WAITING CLIENTS: (7 2 9); (12 2 5); (2 3 4); (4 3 6); (6 3 3); (13 4 4); (5 5 9); (10 5 4); (14 5 9); (16 5 6); (17 5 3); (20 6 2); (1 7 3); (15 7 6); (3 8 3); (8 9 2); (9 9 10); (11 9 5); (18 10 2); (19 10 5);
+QUEUE:1: CLOSED
+
+QUEUE:2: CLOSED
+
+QUEUE:3: CLOSED
+
+QUEUE:4: CLOSED
+
+QUEUE:5: CLOSED
+
+
+Time:1
+WAITING CLIENTS: (7 2 9); (12 2 5); (2 3 4); (4 3 6); (6 3 3); (13 4 4); (5 5 9); (10 5 4); (14 5 9); (16 5 6); (17 5 3); (20 6 2); (1 7 3); (15 7 6); (3 8 3); (8 9 2); (9 9 10); (11 9 5); (18 10 2); (19 10 5);
+QUEUE:1: CLOSED
+
+QUEUE:2: CLOSED
+
+QUEUE:3: CLOSED
+
+QUEUE:4: CLOSED
+
+QUEUE:5: CLOSED
+
+
+Time:2
+WAITING CLIENTS: (2 3 4); (4 3 6); (6 3 3); (13 4 4); (5 5 9); (10 5 4); (14 5 9); (16 5 6); (17 5 3); (20 6 2); (1 7 3); (15 7 6); (3 8 3); (8 9 2); (9 9 10); (11 9 5); (18 10 2); (19 10 5);
+QUEUE:1:  (7 2 9);
+QUEUE:2:  (12 2 5);
+QUEUE:3: CLOSED
+
+QUEUE:4: CLOSED
+
+QUEUE:5: CLOSED
+
+
+Time:3
+WAITING CLIENTS: (13 4 4); (5 5 9); (10 5 4); (14 5 9); (16 5 6); (17 5 3); (20 6 2); (1 7 3); (15 7 6); (3 8 3); (8 9 2); (9 9 10); (11 9 5); (18 10 2); (19 10 5);
+QUEUE:1:  (7 2 8);
+QUEUE:2:  (12 2 4);
+QUEUE:3:  (2 3 4);
+QUEUE:4:  (4 3 6);
+QUEUE:5:  (6 3 3);
+
+Time:4
+WAITING CLIENTS: (5 5 9); (10 5 4); (14 5 9); (16 5 6); (17 5 3); (20 6 2); (1 7 3); (15 7 6); (3 8 3); (8 9 2); (9 9 10); (11 9 5); (18 10 2); (19 10 5);
+QUEUE:1:  (7 2 7);
+QUEUE:2:  (12 2 3);
+QUEUE:3:  (2 3 3);
+QUEUE:4:  (4 3 5);
+QUEUE:5:  (6 3 2); (13 4 4);
+
+Time:5
+WAITING CLIENTS: (20 6 2); (1 7 3); (15 7 6); (3 8 3); (8 9 2); (9 9 10); (11 9 5); (18 10 2); (19 10 5);
+QUEUE:1:  (7 2 6); (17 5 3);
+QUEUE:2:  (12 2 2); (5 5 9);
+QUEUE:3:  (2 3 2); (10 5 4);
+QUEUE:4:  (4 3 4); (14 5 9);
+QUEUE:5:  (6 3 1); (13 4 4); (16 5 6);
+
+Time:6
+WAITING CLIENTS: (1 7 3); (15 7 6); (3 8 3); (8 9 2); (9 9 10); (11 9 5); (18 10 2); (19 10 5);
+QUEUE:1:  (7 2 5); (17 5 3);
+QUEUE:2:  (12 2 1); (5 5 9);
+QUEUE:3:  (2 3 1); (10 5 4); (20 6 2);
+QUEUE:4:  (4 3 3); (14 5 9);
+QUEUE:5:  (13 4 4); (16 5 6);
+
+Time:7
+WAITING CLIENTS: (3 8 3); (8 9 2); (9 9 10); (11 9 5); (18 10 2); (19 10 5);
+QUEUE:1:  (7 2 4); (17 5 3); (15 7 6);
+QUEUE:2:  (5 5 9);
+QUEUE:3:  (10 5 4); (20 6 2); (1 7 3);
+QUEUE:4:  (4 3 2); (14 5 9);
+QUEUE:5:  (13 4 3); (16 5 6);
+
+Time:8
+WAITING CLIENTS: (8 9 2); (9 9 10); (11 9 5); (18 10 2); (19 10 5);
+QUEUE:1:  (7 2 3); (17 5 3); (15 7 6);
+QUEUE:2:  (5 5 8); (3 8 3);
+QUEUE:3:  (10 5 3); (20 6 2); (1 7 3);
+QUEUE:4:  (4 3 1); (14 5 9);
+QUEUE:5:  (13 4 2); (16 5 6);
+
+Time:9
+WAITING CLIENTS: (18 10 2); (19 10 5);
+QUEUE:1:  (7 2 2); (17 5 3); (15 7 6);
+QUEUE:2:  (5 5 7); (3 8 3);
+QUEUE:3:  (10 5 2); (20 6 2); (1 7 3); (8 9 2); (11 9 5);
+QUEUE:4:  (14 5 9);
+QUEUE:5:  (13 4 1); (16 5 6); (9 9 10);
+
+Time:10
+WAITING CLIENTS:
+QUEUE:1:  (7 2 1); (17 5 3); (15 7 6);
+QUEUE:2:  (5 5 6); (3 8 3); (19 10 5);
+QUEUE:3:  (10 5 1); (20 6 2); (1 7 3); (8 9 2); (11 9 5);
+QUEUE:4:  (14 5 8); (18 10 2);
+QUEUE:5:  (16 5 6); (9 9 10);
+
+Time:11
+WAITING CLIENTS:
+QUEUE:1:  (17 5 3); (15 7 6);
+QUEUE:2:  (5 5 5); (3 8 3); (19 10 5);
+QUEUE:3:  (20 6 2); (1 7 3); (8 9 2); (11 9 5);
+QUEUE:4:  (14 5 7); (18 10 2);
+QUEUE:5:  (16 5 5); (9 9 10);
+
+Time:12
+WAITING CLIENTS:
+QUEUE:1:  (17 5 2); (15 7 6);
+QUEUE:2:  (5 5 4); (3 8 3); (19 10 5);
+QUEUE:3:  (20 6 1); (1 7 3); (8 9 2); (11 9 5);
+QUEUE:4:  (14 5 6); (18 10 2);
+QUEUE:5:  (16 5 4); (9 9 10);
+
+Time:13
+WAITING CLIENTS:
+QUEUE:1:  (17 5 1); (15 7 6);
+QUEUE:2:  (5 5 3); (3 8 3); (19 10 5);
+QUEUE:3:  (1 7 3); (8 9 2); (11 9 5);
+QUEUE:4:  (14 5 5); (18 10 2);
+QUEUE:5:  (16 5 3); (9 9 10);
+
+Time:14
+WAITING CLIENTS:
+QUEUE:1:  (15 7 6);
+QUEUE:2:  (5 5 2); (3 8 3); (19 10 5);
+QUEUE:3:  (1 7 2); (8 9 2); (11 9 5);
+QUEUE:4:  (14 5 4); (18 10 2);
+QUEUE:5:  (16 5 2); (9 9 10);
+
+Time:15
+WAITING CLIENTS:
+QUEUE:1:  (15 7 5);
+QUEUE:2:  (5 5 1); (3 8 3); (19 10 5);
+QUEUE:3:  (1 7 1); (8 9 2); (11 9 5);
+QUEUE:4:  (14 5 3); (18 10 2);
+QUEUE:5:  (16 5 1); (9 9 10);
+
+Time:16
+WAITING CLIENTS:
+QUEUE:1:  (15 7 4);
+QUEUE:2:  (3 8 3); (19 10 5);
+QUEUE:3:  (8 9 2); (11 9 5);
+QUEUE:4:  (14 5 2); (18 10 2);
+QUEUE:5:  (9 9 10);
+
+Time:17
+WAITING CLIENTS:
+QUEUE:1:  (15 7 3);
+QUEUE:2:  (3 8 2); (19 10 5);
+QUEUE:3:  (8 9 1); (11 9 5);
+QUEUE:4:  (14 5 1); (18 10 2);
+QUEUE:5:  (9 9 9);
+
+Time:18
+WAITING CLIENTS:
+QUEUE:1:  (15 7 2);
+QUEUE:2:  (3 8 1); (19 10 5);
+QUEUE:3:  (11 9 5);
+QUEUE:4:  (18 10 2);
+QUEUE:5:  (9 9 8);
+
+Time:19
+WAITING CLIENTS:
+QUEUE:1:  (15 7 1);
+QUEUE:2:  (19 10 5);
+QUEUE:3:  (11 9 4);
+QUEUE:4:  (18 10 1);
+QUEUE:5:  (9 9 7);
+
+Time:20
+WAITING CLIENTS:
+QUEUE:1: CLOSED
+
+QUEUE:2:  (19 10 4);
+QUEUE:3:  (11 9 3);
+QUEUE:4: CLOSED
+
+QUEUE:5:  (9 9 6);
+
+Time:21
+WAITING CLIENTS:
+QUEUE:1: CLOSED
+
+QUEUE:2:  (19 10 3);
+QUEUE:3:  (11 9 2);
+QUEUE:4: CLOSED
+
+QUEUE:5:  (9 9 5);
+
+Time:22
+WAITING CLIENTS:
+QUEUE:1: CLOSED
+
+QUEUE:2:  (19 10 2);
+QUEUE:3:  (11 9 1);
+QUEUE:4: CLOSED
+
+QUEUE:5:  (9 9 4);
+
+Time:23
+WAITING CLIENTS:
+QUEUE:1: CLOSED
+
+QUEUE:2:  (19 10 1);
+QUEUE:3: CLOSED
+
+QUEUE:4: CLOSED
+
+QUEUE:5:  (9 9 3);
+
+Time:24
+WAITING CLIENTS:
+QUEUE:1: CLOSED
+
+QUEUE:2: CLOSED
+
+QUEUE:3: CLOSED
+
+QUEUE:4: CLOSED
+
+QUEUE:5:  (9 9 2);
+
+Time:25
+WAITING CLIENTS:
+QUEUE:1: CLOSED
+
+QUEUE:2: CLOSED
+
+QUEUE:3: CLOSED
+
+QUEUE:4: CLOSED
+
+QUEUE:5:  (9 9 1);
+
+Time:26
+WAITING CLIENTS:
+QUEUE:1: CLOSED
+
+QUEUE:2: CLOSED
+
+QUEUE:3: CLOSED
+
+QUEUE:4: CLOSED
+
+QUEUE:5: CLOSED
+
+AVG WAIT 4.35
+AVG SERV 5.0
+PEAK HOUR 9
